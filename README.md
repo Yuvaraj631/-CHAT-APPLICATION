@@ -18,3 +18,5 @@ The backend, powered by Node.js and Express, sets up a web server and integrates
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ca767ccb-9bd1-4051-88f6-a5d4c0606921)
+
